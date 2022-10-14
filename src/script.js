@@ -40,9 +40,6 @@ function infiniteBackgroundSlide() {
   }, 20000);
 }
 
-slideShowDivs();
-infiniteBackgroundSlide();
-
 // workin on cube
 
 function playPauseCube() {
@@ -96,6 +93,9 @@ function hoverOnCube() {
   });
 }
 
-allControls();
-playPauseCube();
-hoverOnCube();
+// slideShowDivs();
+// infiniteBackgroundSlide();
+
+// allControls();
+// playPauseCube();
+// hoverOnCube();
