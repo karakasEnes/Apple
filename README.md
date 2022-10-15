@@ -1,3 +1,3 @@
 # HTML, CSS (SCSS), JS Project!
 
-## Live:
+## Live: https://karakasenes.github.io/Apple/
